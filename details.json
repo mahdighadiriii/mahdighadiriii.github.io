@@ -107,7 +107,7 @@
                 "city": "Iran, Tehran",
                 "company": "Media Gasht Aria Tour & Travel Agency ",
                 "mode": "Part Time Remote",
-                "descriptions": "As Junior Software Engineer in the Back-end Development and Engineering Team, I am responsible for back-end configuration for new and existing installations at customer websites. "
+                "descriptions": "As Junior Software Engineer in the Back-end Development and Engineering Team, I am responsible for back-end configuration for new and existing installations at customer websites. I am developing technical solutions for back-end and Django Rest Framework. I am working within an energetic team of disciplined engineers. As Junior Software Engineer I am part of the Software Team and have functional link to the Software Team lead to ensure cross-training and alignment software engineering. I focused on supporting projects, including troubleshooting-based issues and solutions in support of our Service Team. In addition, I am working on Software development to support Media Gasht Aria initiative to bring innovative products to the tour and Travel market. I encouraged to bring innovative strategies and approaches to software team"
             },
             {
                 "from": "2021",
@@ -120,6 +120,10 @@
             }
 
         ],
-        "Achievements": []
+        "PROFESSIONAL PROFILE": [
+            {
+                "descriptions": "Qualified and experienced Software engineer. Experience taken over many Back-end and API projects, at which has provided the skills of creating Web Development and Back-end Software. Background experience of more than 2 years in various systems. Experience in generating all technical reports. Self-motivated, works well as a team and independently. Adheres to processes/procedures."
+            },
+        ]
     }
 }
