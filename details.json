@@ -1,0 +1,218 @@
+{
+    "Profile": {
+        "General": {
+            "Avatar": "https://avatars.githubusercontent.com/u/29748439?v=4",
+            "FirstName": "Ali",
+            "LastName": "Bigdeli",
+            "Email": "bigdeli.ali3@gmail.com",
+            "Phone": "+989124610183",
+            "BirthDate": "1993/02/24 - 1371/12/05",
+            "Address": "Karaj."
+        },
+        "Socials": [
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/linkedin+square+icon-1320168278649782468.png",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/thealibigdeli/"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/youtube+icon-1320194863618940222.png",
+                "name": "Youtube",
+                "link": "https://youtube.com/TheAliBigdeli"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/instagram+instagram+new+design+logo+social+media+icon-1320184016084463641.png",
+                "name": "Instagram",
+                "link": "https://instagram.com/TheAliBigdeli"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/bot+chat+message+telegram+icon-1320168256174387607.png",
+                "name": "Telegram",
+                "link": "https://t.me/TheAliBigdeli"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/github+logo+social+social+network+website+icon-1320191930698657711.png",
+                "name": "Github",
+                "link": "https://github.com/alibigdeli"
+            }
+        ],
+        "LangTech": [
+            {
+                "Name": "MCITP and Netowrk+"
+            },
+            {
+                "Name": "Python"
+            },
+            {
+                "Name": "Django"
+            },
+            {
+                "Name": "Django Restframework"
+            },
+            {
+                "Name": "Django Channels & Celery"
+            },
+            {
+                "Name": "Async Programming"
+            },
+            {
+                "Name": "Image Proccessing"
+            },
+            {
+                "Name": "MQTT/MQTT ACL"
+            },
+            {
+                "Name": "Docker/DockerCompose"
+            },
+            {
+                "Name": "HTML & CSS"
+            },
+            {
+                "Name": "JavaScript"
+            },
+            {
+                "Name": "Arduino"
+            },
+            {
+                "Name": "Esp 8266/32"
+            },
+            {
+                "Name": "Redis/Rabbitmq"
+            },
+            {
+                "Name": "PCB Design Eagle"
+            },
+            {
+                "Name": "Lora/LPWAN"
+            },
+            {
+                "Name": "Git/Github/Gitlab"
+            },
+            {
+                "Name": "NRF/Ble Modules"
+            }            
+        ],
+        "Skills": [
+            {
+                "Name": "Self Study"
+            },
+            {
+                "Name": "Curious"
+            },
+            {
+                "Name": "Tech Lover"
+            },
+            {
+                "Name": "Fast Learner"
+            },
+            {
+                "Name": "Creative"
+            },
+            {
+                "Name": "R&D is my thing"
+            }
+        ],
+        "Educations": [
+            {
+                "from": 2018,
+                "to": "",
+                "grade": "Master",
+                "in": "AI and Robotics",
+                "institute": "Qazvin Azad University",
+                "descriptions": ""
+            },
+            {
+                "from": 2012,
+                "to": 2016,
+                "grade": "bachelor",
+                "in": "Information Technology",
+                "institute": "Zanjan Azad University",
+                "descriptions": ""
+            }
+        ],
+        "Work": [
+            {
+                "from": "2021-3",
+                "to": "Present",
+                "title": "R&D Manager",
+                "city": "Dubai, United Arab Emirates - Dubai",
+                "company": "WoMaster Middle East",
+                "mode": "Full time Dubai",
+                "descriptions": "Moved from iran office and working in place in Dubai"
+            },
+            {
+                "from": "2021-9",
+                "to": "2022-3",
+                "title": "R&D Manager",
+                "city": "Dubai, United Arab Emirates - Remote",
+                "company": "WoMaster Middle East",
+                "mode": "Full time Remote",
+                "descriptions": "Working on several projects remotely based on iot communications"
+            },
+            {
+                "from": "2016",
+                "to": "Present",
+                "title": "Founder",
+                "city": "karaj",
+                "company": "ICC-ARIA",
+                "mode": "Part time",
+                "descriptions": "Intelligent Communication Control Aria is place to learn development and progress in the field of Internet of Things, Artificial Intelligence, Business Intelligence, Backend and Front development and so on."
+            },
+            {
+                "from": "2021-6",
+                "to": "Present",
+                "title": "Tutor",
+                "city": "Tehran",
+                "company": "Maktabkhooneh.org",
+                "mode": "Part time",
+                "descriptions": "Creating high quality tutorial is hard and thats why i did collaborate with a better team and company which turns out to be maktabkhooneh"
+            },
+            {
+                "from": "2021-2",
+                "to": "2021-9",
+                "title": "R&D Manager and Developer",
+                "city": "Tehran",
+                "company": "Asia Petro Gas",
+                "mode": "Part time Remote",
+                "descriptions": "Part time IOT developer and Lead the Project called 'PingIn' which is for indoor navigation systems"
+            },
+            {
+                "from": "2018-10",
+                "to": "2021-9",
+                "title": "R&D Manager and Developer",
+                "city": "Finland",
+                "company": "Mantranic",
+                "mode": "Part time Remote",
+                "descriptions": "Part time Developer created hardwares such as Mantranic-dev Board, Mantranic-Node Board and IOT Backend platform"
+            },
+            {
+                "from": "2018-10",
+                "to": "2020-8",
+                "title": "Teacher",
+                "city": "karaj",
+                "company": "Net College Batrtar",
+                "mode": "Part time",
+                "descriptions": "Teaching Python, IOT, Arduino,Security and Django"
+            },
+            {
+                "from": "2017-6",
+                "to": "2020-5",
+                "title": "IOT and Ai Developer",
+                "city": "karaj",
+                "company": "Shabdiz Telecom Network",
+                "mode": "Full time",
+                "descriptions": "So many projects happened during the period i have been here that mostly can be found in my linkedin posts"
+            },
+            {
+                "from": "2015-10",
+                "to": "2017-5",
+                "title": "Network Engineer",
+                "city": "Teharan",
+                "company": "Parchista",
+                "mode": "Full time",
+                "descriptions": "helping with network duties and BMS projects"
+            }
+        ],
+        "Achievements": []
+    }
+}
