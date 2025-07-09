@@ -71,7 +71,7 @@ const About = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <motion.div variants={itemVariants}>
               <p className="text-lg text-gray-300 leading-relaxed mb-6">
-                I'm a passionate backend developer with over 5 years of
+                I'm a passionate backend developer with over 3 years of
                 experience building enterprise-grade DCIM (Data Center
                 Infrastructure Management) applications. My expertise lies in
                 creating scalable, secure, and high-performance systems using
